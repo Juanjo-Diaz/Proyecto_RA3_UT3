@@ -67,7 +67,7 @@
 **Dónde**: Clic en un registro desde la lista.  
 **Comprobación**: tipo `form`.  
 **Capturas**:  
-![Formulario Contacto](../assets/img/02-form/paso01_vista-form-contacto.png "Vista Form")
+![](../assets/img/02-form/form.png)
 
 ### 03 Kanban
 **Dónde**: CRM → Oportunidades → icono columnas.  
